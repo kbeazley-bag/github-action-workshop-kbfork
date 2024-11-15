@@ -1,6 +1,6 @@
 param location string = 'switzerlandnorth'
 param resourceGroupName string = 'demo-rg'
-param storageAccountName string = 'mystorageaccountdemokbworkshop'
+param storageAccountName string = 'mystorageaccountdemoksb1'
 param vnetName string = 'demo-vnet'
 param vnetAddressPrefix string = '10.0.0.0/16'
 param subnetName string = 'default'
